@@ -1,0 +1,16 @@
+user,ndp
+function,wordcount
+async toggle,False
+forbid ndp,False
+load balance strategy,workerhash
+iteration, latency
+0,0.401924
+1,0.363997
+2,0.363287
+3,0.354453
+4,0.354777
+5,0.351814
+6,0.350496
+7,0.352865
+8,0.350797
+9,0.352786

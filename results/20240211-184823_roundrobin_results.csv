@@ -1,0 +1,17 @@
+Input data,kjv_ceph
+user,ndp
+function,wordcount
+async toggle,False
+forbid ndp,False
+load balance strategy,roundrobin
+iteration, latency
+0,0.250158
+1,0.24972
+2,0.253353
+3,0.240744
+4,0.242062
+5,0.234138
+6,0.23501
+7,0.231089
+8,0.23774
+9,0.235224

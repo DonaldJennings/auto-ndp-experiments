@@ -1,0 +1,16 @@
+user,ndp
+function,wordcount
+async toggle,False
+forbid ndp,False
+load balance strategy,roundrobin
+iteration, latency
+0,0.356654
+1,0.368353
+2,0.368723
+3,0.35878
+4,0.354924
+5,0.347502
+6,0.361667
+7,0.35444
+8,0.345852
+9,0.357078

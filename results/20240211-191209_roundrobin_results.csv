@@ -1,0 +1,17 @@
+Input data,shakespeare
+user,ndp
+function,wordcount
+async toggle,False
+forbid ndp,True
+load balance strategy,roundrobin
+iteration, latency
+0,0.250084
+1,0.238019
+2,0.243454
+3,0.246758
+4,0.23883
+5,0.237294
+6,0.249098
+7,0.237908
+8,0.242325
+9,0.248364
